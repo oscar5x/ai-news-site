@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://www.artnews.com/c/art-news/news/feed/",
+    "source": "ARTnews",
+    "category": "AI×艺术"
+  },
+  {
+    "url": "https://www.artnet.com/artnet-news/rss",
+    "source": "Artnet News",
+    "category": "AI×艺术"
+  },
+  {
+    "url": "https://www.theverge.com/rss/index.xml",
+    "source": "The Verge",
+    "category": "AI×教育"
+  },
+  {
+    "url": "https://www.technologyreview.com/feed/",
+    "source": "MIT Tech Review",
+    "category": "AI×教育"
+  },
+  {
+    "url": "https://cointelegraph.com/rss",
+    "source": "Cointelegraph",
+    "category": "数字资产"
+  }
+]
