@@ -91,7 +91,7 @@ function render() {
 async function load() {
   // hourly cache-busting
   const v = Math.floor(Date.now() / 3600000);
-  const res = await fetch(`../data/data.json?v=${v}`);
+  const res = await fetch(`./data/data.json?v=${v}`);
   const data = await res.json();
 
   updatedEl.textContent = `最近更新：${bjDateTime(data.generated_at)}`;
