@@ -1,0 +1,12 @@
+{
+  "name": "ai-news-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch_feeds.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
