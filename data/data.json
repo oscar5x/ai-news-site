@@ -1,0 +1,14 @@
+{
+  "generated_at": "2025-08-20T00:00:00Z",
+  "items": [
+    {
+      "title": "欢迎使用：这里会显示今天抓取到的资讯条目",
+      "link": "https://example.com",
+      "source": "示例源",
+      "category": "AI×艺术",
+      "published_at": "2025-08-20T00:00:00Z",
+      "published_ts": 1755648000,
+      "summary": "首次运行 GitHub Actions 后，这里将被自动替换为真实数据。"
+    }
+  ]
+}
