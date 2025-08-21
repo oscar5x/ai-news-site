@@ -1,14 +1,115 @@
 {
-  "generated_at": "2025-08-20T00:00:00Z",
+  "generated_at": "2025-08-21T09:37:24.396Z",
   "items": [
     {
-      "title": "欢迎使用：这里会显示今天抓取到的资讯条目",
-      "link": "https://example.com",
-      "source": "示例源",
+      "id": "b50bdeb63536d71a",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/news/763261/microsoft-employee-arrested-headquarters-protest-redmond-police",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-21T08:55:10.000Z",
+      "published_ts": 1755766510,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "34c1b33e0b3b61bd",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T22:55:33.000Z",
+      "published_ts": 1755730533,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "07979047f1f5e31b",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T22:09:58.000Z",
+      "published_ts": 1755727798,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "7c9354a2084050b9",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T21:58:03.000Z",
+      "published_ts": 1755727083,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "2b75ba0201e2e1eb",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/analysis/762891/made-by-google-pixel-10-jimmy-fallon",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T21:42:27.000Z",
+      "published_ts": 1755726147,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "e0dceef1e924f9b6",
+      "title": "Tanya Bonakdar Gallery to Close Los Angeles&#160;Space",
+      "link": "h",
+      "source": "ARTnews",
       "category": "AI×艺术",
-      "published_at": "2025-08-20T00:00:00Z",
-      "published_ts": 1755648000,
-      "summary": "首次运行 GitHub Actions 后，这里将被自动替换为真实数据。"
+      "published_at": "2025-08-20T21:41:08.000Z",
+      "published_ts": 1755726068,
+      "summary": "It is the third notable gallery with an LA presence to close in the past two months."
+    },
+    {
+      "id": "8c98ce00fac7990b",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/news/763037/framework-is-teasing-a-big-update-for-august-26th-could-it-be-framework-16",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T21:20:38.000Z",
+      "published_ts": 1755724838,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "e70e7b2b235f7b1c",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/news/762933/bioshock-cloud-chamber-take-two-2k-layoffs",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T20:15:48.000Z",
+      "published_ts": 1755720948,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "f97281198fea8d91",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/news/762883/analogue-3d-delay-q4-2025",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T19:59:26.000Z",
+      "published_ts": 1755719966,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "b068d0e3b4c05185",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T19:32:48.000Z",
+      "published_ts": 1755718368,
+      "summary": "[object Object]"
+    },
+    {
+      "id": "03c4d244dd211be1",
+      "title": "[object Object]",
+      "link": "https://www.theverge.com/tech/762707/nothing-headphone-1-insta360-link-2-deal-sale",
+      "source": "The Verge",
+      "category": "AI×教育",
+      "published_at": "2025-08-20T19:26:28.000Z",
+      "published_ts": 1755717988,
+      "summary": "[object Object]"
     }
   ]
 }
